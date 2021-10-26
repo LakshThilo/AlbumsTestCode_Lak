@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Albums</string>
+    <string name="user_id_label_text">User Id:</string>
+    <string name="album_id_label_text">Album Id:</string>
+    <string name="album_title_label_text">Album Title:</string>
+    <string name="error_dialog_button_text">OK</string>
+    <string name="error_dialog_message">We can\'t refresh the album data. Connect to a network to fix this!</string>
+    <string name="error_dialog_title">Data Error!</string>
+
+</resources>
